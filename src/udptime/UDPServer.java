@@ -7,7 +7,7 @@ package udptime;
 
 /**
  *
- * @author Monica Ciuchetti
+ * @author Prelati Alessio
  */
 
 import java.io.IOException;
